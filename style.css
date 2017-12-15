@@ -1,0 +1,90 @@
+h1{
+  position: absolute;
+  top:250px;
+  left: 27%;
+  text-align:center;
+  font-size:122px;
+  text-shadow: 5px 3px darkgray;
+}
+#topHead{
+  position: absolute;
+    left: 9%;
+  width:80%;
+  height:60px;
+   background-color: lightgray;
+  border: 1px solid black;
+}
+.topHeadRight{
+  position: absolute;
+  top:4%;
+  right: 1%;
+  width:93%;
+  height:90%;
+  background-color: #c1c1c1;
+  text-align:right;
+  padding:12px;
+  border: 1px solid black;
+}
+.topHeadLeft{
+  position: absolute;
+  top:4%;
+  left: 1%;
+  width:90px;
+  height:90%;
+  background-color: #c1c1c1;
+  text-align:center;
+  border: 1px solid black;
+}
+body{
+  background-color: #c1c1c1;
+}
+
+.header {
+  position: absolute;
+  top:60px;
+    width: 100%;
+    height: 700px;
+      background: url("http://avtzone-7126.kxcdn.com/wp-content/uploads/2017/01/sposgroup.jpg");
+     background-size: 100% 100%;
+  z-index:-1;
+  }
+ #buttonBox{
+ 
+  position: absolute;
+  top:450px;
+  left:550px;
+  width: 850px;
+  text-align: center;
+  
+  
+  }
+ .innerBox
+{
+    display: inline-block;
+  width:140px;
+  
+  
+}
+
+p{
+  position: absolute;
+  top:400px;
+  left:550px;
+  width: 850px;
+  text-align: center;
+  font-size:27px;
+  font-weight: 900;
+  color:#43413E; 
+}
+
+ .button {
+    background-color: gray;
+    border: none;
+    padding: 4px 4px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  
+}
